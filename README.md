@@ -29,11 +29,7 @@ cd simple-angular-seed
 
 Coming soon!
 
-### Tests
-
-Coming Soon!
-
-### Directory Layout
+## Directory Layout
 
     app/                --> all of the files to be used in production
       css/              --> css files
@@ -50,14 +46,8 @@ Coming Soon!
         partial1.html
         partial2.html
 
-
-### Serving the Application Files
-
-While angular is client-side-only technology and it's possible to create angular webapps that
-don't require a backend server at all, I recommend serving the project files using a local
-webserver during development to avoid issues with security restrictions (sandbox) in browsers. The
-sandbox implementation varies between browsers, but quite often prevents things like cookies, xhr,
-etc to function properly when an html page is opened via `file://` scheme instead of `http://`.
+## Testing
+Coming Soon!
 
 ## Contact
 
