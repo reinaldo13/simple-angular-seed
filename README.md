@@ -46,6 +46,8 @@ You can either run your app locally or host it using [github pages](https://page
         partial1.html
         partial2.html
 
+    test/               --> test config and source files (coming soon!)
+    
 ## Testing
 Coming Soon!
 
