@@ -48,7 +48,9 @@ Coming soon!
         partial1.html
         partial2.html
 
-    test/               --> test config and source files (you choose the test framework)
+## Tests
+
+Coming Soon!
 
 ## Serving the Application Files
 
