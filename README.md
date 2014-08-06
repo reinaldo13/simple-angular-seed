@@ -27,7 +27,7 @@ cd simple-angular-seed
 
 ### Run the Application
 
-Coming soon!
+You can either run your app locally or host it using [github pages](https://pages.github.com/)
 
 ## Directory Layout
 
