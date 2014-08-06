@@ -18,7 +18,7 @@ You need git to clone the simple-angular-seed repository. You can get it from
 
 ### Clone angular-seed
 
-Clone the angular-seed repository using [git][git]:
+Clone the angular-seed repository using git:
 
 ```
 git clone https://github.com/reinaldo13/simple-angular-seed.git
